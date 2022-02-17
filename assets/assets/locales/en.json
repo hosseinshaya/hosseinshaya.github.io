@@ -1,0 +1,11 @@
+{
+  "personal_info": {
+    "alias": "Hossein",
+    "first_name": "MohammadHossein",
+    "last_name": "Shabani"
+  },
+  "introduce": {
+    "prefix": "Hello, I'm",
+    "suffix": "My full name is {}"
+  }
+}
