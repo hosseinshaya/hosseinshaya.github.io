@@ -8,7 +8,7 @@ const RESOURCES = {"assets/FontManifest.json": "a967f9439e646c41aea881f2bbb9f0d0
 "assets/assets/images/marker.png": "a1234d5534a64964952ca6d0d016cad3",
 "assets/assets/images/divider.png": "7205dd52e4d815dd8e5f850153a5a9b1",
 "assets/assets/images/hand.png": "05cff39c7ce7f9c2c4435bc2813ef0a8",
-"assets/assets/images/2.jpeg": "29c09f11b87c6e217d6a3b26f6fc9edb",
+"assets/assets/images/2.jpeg": "2c6ad22e2299d4d3ec2bf0fcd4caefd8",
 "assets/NOTICES": "75880c9979f7e775e5e3d59f9eab05fe",
 "assets/resources/fonts/iransans-x/fa-num/IRANSansXFaNum-Medium.ttf": "ff2da440d62aee697efabb9c6164c445",
 "assets/resources/fonts/iransans-x/fa-num/IRANSansXFaNum-Thin.ttf": "2feff90a68b721721210f8a3fb869e26",
